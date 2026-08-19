@@ -1,7 +1,7 @@
 ## 彭岗杰 / Peng Gangjie
 
-高校教师 · AI Builder。
-SketchUp官方讲师/中科院心理咨询师/艺术设计/ENFJ
+高校教师 · AI Builder。<br>
+SketchUp官方讲师 / 中科院心理咨询师 / 艺术设计 / ENFJ<br>
 用 Cursor / Python 把工作交付做成可重复产线，专业落点则是存量人居空间的数字化更新。
 
 University lecturer and AI builder. I turn delivery work into repeatable agent pipelines, and I work on digital methods for existing inhabited space.
@@ -18,13 +18,15 @@ University lecturer and AI builder. I turn delivery work into repeatable agent p
 
 `Context Engineering` · `Agent 编排` · `文档工厂` · `人居数字化`
 
-课堂与教务交付走同一套：规则写进 Skill → 脚本固化 → `output/` 可提交包。
+课堂与教务交付走同一套：规则写进 Skill → 脚本固化 → `output/` 可提交包。<br>
 人居线的台阶是：空间表达 → 点云 / BIM → 保护约束下的更新 → 可教的专业规格。
 
 ### Teaching
-毕业于中国地质大学（武汉）· 艺术与传媒学院· 本科 /硕士研究生
-研究领域：环境艺术设计/ 城市设计 / BIM数字孪生
+
+毕业于中国地质大学（武汉）· 艺术与传媒学院 · 本科 / 硕士研究生<br>
+研究领域：环境艺术设计 / 城市设计 / BIM数字孪生
 
 ### Connect
-102627184@qq.com
+
+[102627184@qq.com](mailto:102627184@qq.com)<br>
 [GitHub](https://github.com/PengGangjie)
