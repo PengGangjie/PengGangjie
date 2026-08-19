@@ -1,0 +1,28 @@
+## 彭岗杰 / Peng Gangjie
+
+高职教师 · AI Builder。用 Cursor / Python 把职教交付做成可重复产线，专业落点是存量人居空间的数字化更新。
+
+Vocational education instructor and AI builder. I turn teaching-admin delivery into repeatable agent pipelines, and I work on digital methods for existing inhabited space.
+
+### What I'm Building
+
+- **[gewuji-os](https://github.com/PengGangjie/gewuji-os)** — 格物记：衣橱收纳 + 穿搭推荐。Expo / React Native + Web PWA monorepo
+- **[lintwin-forest-twin](https://github.com/PengGangjie/lintwin-forest-twin)** — 林孪智服：东盟林业数字孪生 Demo（地图工单、弱网、双语）
+- **[life-density](https://github.com/PengGangjie/life-density)** — 人生量化工具箱 + 认知偏差环（纯前端）
+- **[vernacular-semantic-bim](https://github.com/PengGangjie/vernacular-semantic-bim)** — 乡土旧建筑语义 BIM / 保护约束下的更新工作流（论文初稿）
+- **[smart-habitat-program](https://github.com/PengGangjie/smart-habitat-program)** — 建筑室内 → 智能人居设计（职业本科）专业建设方案
+
+### Practice
+
+`Context Engineering` · `Agent 编排` · `文档工厂` · `人居数字化`
+
+课堂与教务交付走同一套：规则写进 Skill → 脚本固化 → `output/` 可提交包。人居线的台阶是：空间表达 → 点云 / BIM → 保护约束下的更新 → 可教的专业规格。林孪智服是这条线上的跨境现场经验，不是改行做林业。
+
+### Teaching
+
+广西生态工程职业技术学院 · 工业与艺术设计学院  
+建筑室内设计（440106） / 环境艺术设计
+
+### Connect
+
+[GitHub](https://github.com/PengGangjie)
