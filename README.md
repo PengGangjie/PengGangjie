@@ -4,7 +4,7 @@
 SketchUp官方讲师/中科院心理咨询师/艺术设计/ENFJ
 用 Cursor / Python 把工作交付做成可重复产线，专业落点则是存量人居空间的数字化更新。
 
-Vocational education instructor and AI builder. I turn teaching-admin delivery into repeatable agent pipelines, and I work on digital methods for existing inhabited space.
+University lecturer and AI builder. I turn delivery work into repeatable agent pipelines, and I work on digital methods for existing inhabited space.
 
 ### What I'm Building
 
