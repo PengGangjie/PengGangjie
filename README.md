@@ -9,7 +9,6 @@ University lecturer and AI builder. I turn delivery work into repeatable agent p
 ### What I'm Building
 
 - **[life-density-platform](https://github.com/PengGangjie/life-density-platform)** — 人生量化工具箱：Logto 登录 + Turso 云同步 + PWA（[线上](https://life-density.ai-builders.space)）
-- **[gxstzy-shixun-platform](https://github.com/PengGangjie/gxstzy-shixun-platform)** — 实训科管理平台：Logto + FastAPI 上架 Space（[线上](https://gxstzy-shixun.ai-builders.space)）
 - **[gewuji-os](https://github.com/PengGangjie/gewuji-os)** — 格物记：衣橱收纳 + 穿搭推荐。Expo / React Native + Web PWA monorepo
 - **[lintwin-forest-twin](https://github.com/PengGangjie/lintwin-forest-twin)** — 林孪智服：东盟林业数字孪生 Demo（地图工单、弱网、双语）
 - **[vernacular-semantic-bim](https://github.com/PengGangjie/vernacular-semantic-bim)** — 乡土旧建筑语义 BIM / 保护约束下的更新工作流（论文初稿）
